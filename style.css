@@ -355,3 +355,14 @@ footer {
         grid-template-columns: repeat(auto-fit, 330px);
     }
 }
+
+@media (max-width: 300px)
+{ 
+.busca input {
+    padding: 4px
+}
+cards li {
+   
+    margin-bottom: 50px;
+}
+}
